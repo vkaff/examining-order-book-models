@@ -5,7 +5,7 @@ Implement and test various algorithmic approaches for an Order Book
 * https://emi.nasdaq.com/ITCH/Nasdaq%20ITCH/
 * https://lobsterdata.com/info/HowToJoin.php
 
-## What is implemented 
+## Implementation 
 
 ### Structures to use
 * Use SortedContainers. This is implemented using a binary search tree (some kind of red-black tree) that uses "links" between nodes. Additionally, utilizes a hash-map for fast access of price_levels. Note: mentioned in stackoverflow that keeping a separate dict might be faster because python’s dict is currently implemented in C whereas the above module is implemented in pure python (needs check not sure if that is true) 
