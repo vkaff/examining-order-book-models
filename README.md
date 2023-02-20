@@ -1,9 +1,9 @@
 # examining-order-book-models
 Implement and test various algorithmic approaches for an Order Book
 
-## Collect data
-https://emi.nasdaq.com/ITCH/Nasdaq%20ITCH/
-https://lobsterdata.com/info/HowToJoin.php
+## Collecting data
+* https://emi.nasdaq.com/ITCH/Nasdaq%20ITCH/
+* https://lobsterdata.com/info/HowToJoin.php
 
 ## What is implemented 
 
